@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vahak</string>
+    <string name="search">Search Something</string>
+    <string name="search_image">Search Image</string>
+    <string name="view_more">View website</string>
+    <string name="speak_voice">Speak to search</string>
+</resources>
